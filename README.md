@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Dhahbi</h1>
+# Hi there 👋
 
 <h3 align="center">A passionate full stack developer from Tunisia</h3>
 
