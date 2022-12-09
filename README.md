@@ -1,8 +1,8 @@
 # Hi there 👋
 
-<h3 align="center">A passionate full stack developer from Tunisia</h3>
+Hi! My name is Mohamed and I'm a Full-Stack web developer from Tunisia. Thank You for taking the time to view my GitHub Profile 😄
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3C7E3D&lines=WELCOME+TO+MY+PROFILE)](https://git.io/typing-svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meddhahbi&label=Profile%20views&color=0e75b6&style=flat" alt="meddhahbi" /> </p>
 
